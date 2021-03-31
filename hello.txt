@@ -1,0 +1,3 @@
+hellow world. this is a simple text to push to git hub and share with otehr people on git .
+
+Having fun with github.
